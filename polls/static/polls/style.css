@@ -1,0 +1,11 @@
+li a {
+    color: black;
+    font-weight: bold;
+}
+body {
+    background: white url("images/background.gif") no-repeat;
+    border: 1px black;
+}
+ChoiceInline {
+    color: black;
+}
